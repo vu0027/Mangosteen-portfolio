@@ -1,0 +1,47 @@
+
+table {
+	border-collapse: collapse;
+}
+th{
+  text-align: center;
+  font-family:"lucida grande",cursive;
+  font-size: 5vh;
+  color:green;
+  background-color: #dff3e3;
+
+}
+table{
+  	border: 1vh green solid;
+}
+td {
+
+	border: 2px green solid;
+	text-align: center;
+	font-size: 4vh;
+}
+
+
+
+
+
+
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 2vh;
+	text-align: center;
+	width: 20%;
+}
+
+#free, .pickedBG {
+	background-color: #80ffdb;
+}
+
+.winningBG {
+/* 	lets set it to flash or blink or something */
+}
+
+
+/* https://designshack.net/articles/typography/10-more-great-google-font-combinations-you-can-copy/ */
